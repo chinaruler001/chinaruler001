@@ -1,10 +1,22 @@
-- 👋 Hi, I’m (https://t.me/fangxinkeji)
-- 👀 I’m telegram 电报
-- 🌱 I’m currently telethon
-- 💞️ I’m looking to 找代理，找客户
-- 📫 How to reach me https://t.me/fx_kefu1
+# 自我介绍
 
-<!---
-chinaruler001/chinaruler001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+我是电报机器人开发者，可以定制机器人，模仿机器人等
+
+我的频道是 https://t.me/fangxinkeji
+
+我的联系方式 https://t.me/fx_kefu1
+
+# 目前开发的机器人有
+
+- 扫雷红包机器人
+- 合庄牛牛机器人
+- 自动发卡机器人
+- 快三机器人
+- 电报自动充值会员机器人
+- TRX能量租赁机器人
+- USDT兑换TRX机器人
+
+  # 我的计划
+
+  - 电报注册机
+
